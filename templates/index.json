@@ -25,12 +25,12 @@
         ".button {background-color: white; color: black;}"
       ],
       "settings": {
-        "title": "New Arrivals",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "chalet-main-section",
+        "collection": "new",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": true,
