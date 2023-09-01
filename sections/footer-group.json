@@ -42,38 +42,30 @@
         "ae7ee8a1-40e2-42a3-99ef-55bb29d62c4b": {
           "type": "link_list",
           "settings": {
-            "heading": "<strong>CUSTOMER SERVICE<\/strong>",
-            "menu": "footer-customer-service"
-          }
-        },
-        "6132e0fc-b4a8-43cb-9227-798d47fc06ae": {
-          "type": "link_list",
-          "settings": {
-            "heading": "<strong>ABOUT US<\/strong>",
+            "heading": "<strong>COMPLAINTS<\/strong>",
             "menu": "footer"
           }
         },
-        "f4550abe-a342-418a-a74d-248cad95ce9a": {
-          "type": "link_list",
+        "135ce57b-5c01-41d2-be65-69fa2c3c6c18": {
+          "type": "text",
           "settings": {
-            "heading": "<strong>SHOP<\/strong>",
-            "menu": "footer-shop"
+            "heading": "ABOUT US",
+            "subtext": "<p>Just a couple active duty dudes that are looking to make the world a better place.<\/p><p><\/p><p>ALL SALES ARE FINAL. NO RETURNS OR EXCHANGES.<\/p>"
           }
         }
       },
       "block_order": [
         "ae7ee8a1-40e2-42a3-99ef-55bb29d62c4b",
-        "6132e0fc-b4a8-43cb-9227-798d47fc06ae",
-        "f4550abe-a342-418a-a74d-248cad95ce9a"
+        "135ce57b-5c01-41d2-be65-69fa2c3c6c18"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "newsletter_enable": false,
+        "color_scheme": "accent-1",
+        "newsletter_enable": true,
         "newsletter_heading": "GET ON THE LIST",
-        "enable_follow_on_shop": true,
+        "enable_follow_on_shop": false,
         "show_social": true,
-        "enable_country_selector": true,
-        "enable_language_selector": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
         "payment_enable": false,
         "show_policy": false,
         "margin_top": 20,
