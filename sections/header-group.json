@@ -28,7 +28,7 @@
         "span {font-size: 20px;}"
       ],
       "settings": {
-        "custom_liquid": "<span>\nMADE IN USA <\/span> <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0767\/5379\/7397\/files\/Amreican_Heart.webp?v=1687944618\"",
+        "custom_liquid": "",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
