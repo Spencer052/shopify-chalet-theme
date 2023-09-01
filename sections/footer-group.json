@@ -60,7 +60,7 @@
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "GET ON THE LIST",
         "enable_follow_on_shop": false,
         "show_social": true,
